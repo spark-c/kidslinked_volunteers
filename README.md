@@ -17,3 +17,5 @@ psql postgres
 
 # \q to quit
 ```
+
+(This project database is `volunteers` with admin user `volunteer_admin`).
